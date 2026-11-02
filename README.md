@@ -25,3 +25,11 @@ To run the tests, do the following:
 ```
 forge test
 ```
+
+## Audits
+
+Audit reports are hosted on the auditors' public portfolio pages:
+
+| Auditor | Report | Date |
+| --- | --- | --- |
+| Cantina | [erc20-helpers upgradeable-proxy](https://cantina.xyz/portfolio/d3ba51dd-e2ef-41fe-a33f-7da5573256e6) | 2023-11-03 |
